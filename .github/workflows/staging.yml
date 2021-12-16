@@ -1,4 +1,4 @@
-name: Build and push the latest build to staging
+name: Staging -  Build and push the latest build to staging
 
 on:
   # Triggers the workflow on push or pull request events but only for the main branch
