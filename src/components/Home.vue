@@ -8,7 +8,7 @@
     <div class="row at-row flex-center flex-middle">
       <div class="col-lg-24">
         <h1 class="super-header">{{subtitle}}</h1>
-        <h1 class="super-header">Thank you for attending, please don't forget to fill out our survey</h1>
+        <h1 class="super-header">Thank you for attending, please don't forget to fill out our survey.</h1>
         
       </div>
     </div>
